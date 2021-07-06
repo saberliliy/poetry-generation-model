@@ -1,0 +1,247 @@
+Building model...
+Building keyword_teams_encoder...
+Building content_encoder...
+Building keyword_encoder...
+Building decoder...
+Setting optimizer..
+Created new model parameters...
+Training...
+Epoch  0 Step  100 Perplexity 1007.93 Step-time  1.2535381984710694 loss 6.915656251907349 102.11 sents/s
+Epoch  0 Step  200 Perplexity 419.69 Step-time  1.2810484457015991 loss 6.039506649971007 99.92 sents/s
+Epoch  0 Step  300 Perplexity 378.79 Step-time  1.699631428718567 loss 5.936984219551086 75.31 sents/s
+Epoch  0 Step  400 Perplexity 373.44 Step-time  1.1980469822883606 loss 5.922764749526975 106.84 sents/s
+Epoch  0 Step  500 Perplexity 357.01 Step-time  1.3522615909576416 loss 5.877753825187683 94.66 sents/s
+Epoch  0 Step  600 Perplexity 354.00 Step-time  1.3692278599739074 loss 5.869306836128235 93.48 sents/s
+Epoch  0 Step  700 Perplexity 354.03 Step-time  1.350153226852417 loss 5.869384708404544 94.80 sents/s
+Epoch  0 Step  800 Perplexity 345.15 Step-time  1.2578235387802124 loss 5.843985896110534 101.76 sents/s
+Epoch  0 Step  900 Perplexity 336.96 Step-time  1.2520682072639466 loss 5.8199506187438965 102.23 sents/s
+Epoch  0 Step  1000 Perplexity 323.27 Step-time  1.267174367904663 loss 5.778475465774537 101.01 sents/s
+Epoch  0 Step  1100 Perplexity 313.64 Step-time  1.2863641786575317 loss 5.748254084587099 99.51 sents/s
+Epoch  0 Step  1200 Perplexity 315.50 Step-time  1.2649424624443055 loss 5.754171586036682 101.19 sents/s
+Epoch  0 Step  1300 Perplexity 304.34 Step-time  1.3267847895622253 loss 5.718159308433531 96.47 sents/s
+Epoch  0 Step  1400 Perplexity 291.59 Step-time  1.3860928010940552 loss 5.675362830162047 92.35 sents/s
+Epoch  0 Step  1500 Perplexity 292.85 Step-time  1.3772689080238343 loss 5.6796775770187375 92.94 sents/s
+Epoch  0 Step  1600 Perplexity 278.36 Step-time  1.4018795418739318 loss 5.628902845382691 91.31 sents/s
+Epoch  0 Step  1700 Perplexity 256.12 Step-time  1.3878714919090271 loss 5.545626888275145 92.23 sents/s
+Epoch  0 Step  1800 Perplexity 248.76 Step-time  1.3093671488761902 loss 5.516490702629089 97.76 sents/s
+Epoch  0 Step  1900 Perplexity 243.67 Step-time  1.2948802971839906 loss 5.495835113525391 98.85 sents/s
+Epoch  0 Step  2000 Perplexity 227.69 Step-time  1.282962191104889 loss 5.427991685867314 99.77 sents/s
+Epoch  0 Step  2100 Perplexity 232.75 Step-time  1.3110988473892211 loss 5.449954323768615 97.63 sents/s
+Epoch  0 Step  2200 Perplexity 223.12 Step-time  1.2816995334625245 loss 5.407705960273745 99.87 sents/s
+Epoch 1 DONE
+Epoch  1 Step  2300 Perplexity 218.88 Step-time  1.2807784533500672 loss 5.388509178161621 99.94 sents/s
+Epoch  1 Step  2400 Perplexity 212.45 Step-time  1.3014756727218628 loss 5.358694672584535 98.35 sents/s
+Epoch  1 Step  2500 Perplexity 214.92 Step-time  1.296509826183319 loss 5.37024622440338 98.73 sents/s
+Epoch  1 Step  2600 Perplexity 207.23 Step-time  1.3098144817352295 loss 5.333818020820617 97.72 sents/s
+Epoch  1 Step  2700 Perplexity 203.31 Step-time  1.3222176718711853 loss 5.314735865592956 96.81 sents/s
+Epoch  1 Step  2800 Perplexity 191.49 Step-time  1.3001207089424134 loss 5.254851903915404 98.45 sents/s
+Epoch  1 Step  2900 Perplexity 191.84 Step-time  1.2985182762145997 loss 5.256644916534423 98.57 sents/s
+Epoch  1 Step  3000 Perplexity 190.11 Step-time  1.2925255751609803 loss 5.247603735923768 99.03 sents/s
+Epoch  1 Step  3100 Perplexity 186.82 Step-time  1.3275595688819886 loss 5.2301568508148195 96.42 sents/s
+Epoch  1 Step  3200 Perplexity 181.31 Step-time  1.3137298583984376 loss 5.200225777626035 97.43 sents/s
+Epoch  1 Step  3300 Perplexity 177.00 Step-time  1.3056607031822205 loss 5.176142611503601 98.03 sents/s
+Epoch  1 Step  3400 Perplexity 178.07 Step-time  1.3003224754333496 loss 5.182150473594665 98.44 sents/s
+Epoch  1 Step  3500 Perplexity 170.73 Step-time  1.3071988773345948 loss 5.140073738098144 97.92 sents/s
+Epoch  1 Step  3600 Perplexity 163.85 Step-time  1.3256795191764832 loss 5.098921446800235 96.55 sents/s
+Epoch  1 Step  3700 Perplexity 165.89 Step-time  1.315265634059906 loss 5.111338310241698 97.32 sents/s
+Epoch  1 Step  3800 Perplexity 164.15 Step-time  1.2969511079788207 loss 5.1008057117462124 98.69 sents/s
+Epoch  1 Step  3900 Perplexity 159.67 Step-time  1.2873831224441528 loss 5.073105168342591 99.43 sents/s
+Epoch  1 Step  4000 Perplexity 157.69 Step-time  1.3046150159835816 loss 5.060623650550842 98.11 sents/s
+Epoch  1 Step  4100 Perplexity 156.67 Step-time  1.3192390036582946 loss 5.054118237495422 97.03 sents/s
+Epoch  1 Step  4200 Perplexity 154.39 Step-time  1.2959042525291442 loss 5.039500641822815 98.77 sents/s
+Epoch  1 Step  4300 Perplexity 151.22 Step-time  1.3060649943351745 loss 5.018734984397888 98.00 sents/s
+Epoch  1 Step  4400 Perplexity 149.08 Step-time  1.3038040685653687 loss 5.004494452476502 98.17 sents/s
+Epoch  1 Step  4500 Perplexity 146.71 Step-time  1.3104976296424866 loss 4.988481545448305 97.67 sents/s
+Epoch 2 DONE
+Epoch  2 Step  4600 Perplexity 143.16 Step-time  1.2944676566123963 loss 4.96393350124359 98.88 sents/s
+Epoch  2 Step  4700 Perplexity 140.75 Step-time  1.299765386581421 loss 4.9469579696655295 98.48 sents/s
+Epoch  2 Step  4800 Perplexity 140.64 Step-time  1.2987533736228942 loss 4.9461737871170035 98.56 sents/s
+Epoch  2 Step  4900 Perplexity 139.33 Step-time  1.3900837182998658 loss 4.936835508346558 92.08 sents/s
+Epoch  2 Step  5000 Perplexity 132.46 Step-time  1.305589692592621 loss 4.886248693466185 98.04 sents/s
+Saving the model..
+Model saved at model/dir\translate.ckpt-5000
+Epoch  2 Step  5100 Perplexity 130.69 Step-time  1.3591770100593568 loss 4.87279918193817 94.17 sents/s
+Epoch  2 Step  5200 Perplexity 132.19 Step-time  1.3066238474845886 loss 4.884210629463196 97.96 sents/s
+Epoch  2 Step  5300 Perplexity 130.98 Step-time  1.3072041058540345 loss 4.875081090927124 97.92 sents/s
+Epoch  2 Step  5400 Perplexity 131.07 Step-time  1.3209488034248351 loss 4.875742192268372 96.90 sents/s
+Epoch  2 Step  5500 Perplexity 126.66 Step-time  1.297860736846924 loss 4.841487040519715 98.62 sents/s
+Epoch  2 Step  5600 Perplexity 124.76 Step-time  1.3222919368743897 loss 4.826388268470766 96.80 sents/s
+Epoch  2 Step  5700 Perplexity 125.18 Step-time  1.3039705538749695 loss 4.829784092903139 98.16 sents/s
+Epoch  2 Step  5800 Perplexity 121.14 Step-time  1.317075846195221 loss 4.796936554908751 97.18 sents/s
+Epoch  2 Step  5900 Perplexity 117.65 Step-time  1.3061659860610961 loss 4.767751317024231 98.00 sents/s
+Epoch  2 Step  6000 Perplexity 120.70 Step-time  1.3223578000068665 loss 4.793307967185974 96.80 sents/s
+Epoch  2 Step  6100 Perplexity 119.05 Step-time  1.2975820922851562 loss 4.779508361816406 98.65 sents/s
+Epoch  2 Step  6200 Perplexity 116.06 Step-time  1.301761212348938 loss 4.754101886749268 98.33 sents/s
+Epoch  2 Step  6300 Perplexity 116.27 Step-time  1.3093699645996093 loss 4.755926780700682 97.76 sents/s
+Epoch  2 Step  6400 Perplexity 116.18 Step-time  1.3154745149612426 loss 4.755133175849915 97.30 sents/s
+Epoch  2 Step  6500 Perplexity 113.25 Step-time  1.3113294172286987 loss 4.72962818145752 97.61 sents/s
+Epoch  2 Step  6600 Perplexity 114.10 Step-time  1.30126309633255 loss 4.737074732780459 98.37 sents/s
+Epoch  2 Step  6700 Perplexity 110.81 Step-time  1.3093542218208314 loss 4.70785378456116 97.76 sents/s
+Epoch 3 DONE
+Epoch  3 Step  6800 Perplexity 110.73 Step-time  1.299388382434845 loss 4.707065558433537 98.51 sents/s
+Epoch  3 Step  6900 Perplexity 108.88 Step-time  1.314074728488922 loss 4.690206818580628 97.41 sents/s
+Epoch  3 Step  7000 Perplexity 109.18 Step-time  1.304184091091156 loss 4.693035731315614 98.15 sents/s
+Epoch  3 Step  7100 Perplexity 108.24 Step-time  1.311818790435791 loss 4.684317846298217 97.57 sents/s
+Epoch  3 Step  7200 Perplexity 107.01 Step-time  1.3105616998672485 loss 4.672904176712038 97.67 sents/s
+Epoch  3 Step  7300 Perplexity 102.34 Step-time  1.2999933671951294 loss 4.62828782558441 98.46 sents/s
+Epoch  3 Step  7400 Perplexity 103.36 Step-time  1.308440284729004 loss 4.638186736106871 97.83 sents/s
+Epoch  3 Step  7500 Perplexity 103.84 Step-time  1.2966491055488587 loss 4.642873582839967 98.72 sents/s
+Epoch  3 Step  7600 Perplexity 103.68 Step-time  1.336606948375702 loss 4.641282176971439 95.76 sents/s
+Epoch  3 Step  7700 Perplexity 102.00 Step-time  1.3467519426345824 loss 4.624983863830568 95.04 sents/s
+Epoch  3 Step  7800 Perplexity 101.26 Step-time  1.2996009731292724 loss 4.617712769508361 98.49 sents/s
+Epoch  3 Step  7900 Perplexity 100.26 Step-time  1.2039943408966065 loss 4.607777271270755 106.31 sents/s
+Epoch  3 Step  8000 Perplexity 99.39 Step-time  1.1944195413589478 loss 4.5990737771987895 107.17 sents/s
+Epoch  3 Step  8100 Perplexity 94.97 Step-time  1.1915480303764343 loss 4.553537611961364 107.42 sents/s
+Epoch  3 Step  8200 Perplexity 97.54 Step-time  1.1927179026603698 loss 4.580251517295836 107.32 sents/s
+Epoch  3 Step  8300 Perplexity 96.33 Step-time  1.194854874610901 loss 4.567806911468504 107.13 sents/s
+Epoch  3 Step  8400 Perplexity 94.70 Step-time  1.1938002943992614 loss 4.550700650215148 107.22 sents/s
+Epoch  3 Step  8500 Perplexity 94.28 Step-time  1.1876080465316772 loss 4.546243548393249 107.78 sents/s
+Epoch  3 Step  8600 Perplexity 96.16 Step-time  1.19717910528183 loss 4.56605282306671 106.92 sents/s
+Epoch  3 Step  8700 Perplexity 94.04 Step-time  1.1977533054351808 loss 4.543698363304138 106.87 sents/s
+Epoch  3 Step  8800 Perplexity 91.67 Step-time  1.20289395570755 loss 4.518199071884155 106.41 sents/s
+Epoch  3 Step  8900 Perplexity 92.73 Step-time  1.2030369210243226 loss 4.529670152664185 106.40 sents/s
+Epoch  3 Step  9000 Perplexity 91.84 Step-time  1.2358283376693726 loss 4.520019898414611 103.57 sents/s
+Epoch 4 DONE
+Epoch  4 Step  9100 Perplexity 89.19 Step-time  1.2701215577125549 loss 4.490727624893188 100.78 sents/s
+Epoch  4 Step  9200 Perplexity 89.49 Step-time  1.2755829334259032 loss 4.494095473289491 100.35 sents/s
+Epoch  4 Step  9300 Perplexity 90.15 Step-time  1.1984312772750854 loss 4.50144105911255 106.81 sents/s
+Epoch  4 Step  9400 Perplexity 89.15 Step-time  1.1956402611732484 loss 4.490293369293211 107.06 sents/s
+Epoch  4 Step  9500 Perplexity 86.64 Step-time  1.1854748845100402 loss 4.461742529869079 107.97 sents/s
+Epoch  4 Step  9600 Perplexity 84.32 Step-time  1.1985553574562073 loss 4.434591360092163 106.80 sents/s
+Epoch  4 Step  9700 Perplexity 85.78 Step-time  1.1866703462600707 loss 4.451730470657351 107.86 sents/s
+Epoch  4 Step  9800 Perplexity 86.55 Step-time  1.2295548033714294 loss 4.460758471488951 104.10 sents/s
+Epoch  4 Step  9900 Perplexity 85.75 Step-time  1.2609780383110047 loss 4.451447162628172 101.51 sents/s
+Epoch  4 Step  10000 Perplexity 84.90 Step-time  1.2679667115211486 loss 4.441531786918641 100.95 sents/s
+Saving the model..
+Model saved at model/dir\translate.ckpt-10000
+Epoch  4 Step  10100 Perplexity 83.56 Step-time  1.2637579941749573 loss 4.425615034103393 101.29 sents/s
+Epoch  4 Step  10200 Perplexity 83.86 Step-time  1.182713313102722 loss 4.429170665740966 108.23 sents/s
+Epoch  4 Step  10300 Perplexity 81.33 Step-time  1.1849249863624574 loss 4.39856273174286 108.02 sents/s
+Epoch  4 Step  10400 Perplexity 79.90 Step-time  1.1900390076637268 loss 4.380775732994078 107.56 sents/s
+Epoch  4 Step  10500 Perplexity 81.54 Step-time  1.2787834978103638 loss 4.401131811141968 100.10 sents/s
+Epoch  4 Step  10600 Perplexity 80.66 Step-time  1.2799570369720459 loss 4.390291905403135 100.00 sents/s
+Epoch  4 Step  10700 Perplexity 79.67 Step-time  1.2632583999633789 loss 4.377859549522402 101.33 sents/s
+Epoch  4 Step  10800 Perplexity 79.86 Step-time  1.2470189929008484 loss 4.38031280517578 102.64 sents/s
+Epoch  4 Step  10900 Perplexity 79.19 Step-time  1.2319908905029298 loss 4.37185541152954 103.90 sents/s
+Epoch  4 Step  11000 Perplexity 79.14 Step-time  1.1857763195037843 loss 4.3712247323989875 107.95 sents/s
+Epoch  4 Step  11100 Perplexity 78.53 Step-time  1.2293274927139282 loss 4.363438849449159 104.12 sents/s
+Epoch  4 Step  11200 Perplexity 77.01 Step-time  1.2949261379241943 loss 4.343963637351989 98.85 sents/s
+Epoch 5 DONE
+Epoch  5 Step  11300 Perplexity 76.40 Step-time  1.2168506836891175 loss 4.3360020685195915 105.19 sents/s
+Epoch  5 Step  11400 Perplexity 76.74 Step-time  1.1747230768203736 loss 4.340453238487244 108.96 sents/s
+Epoch  5 Step  11500 Perplexity 76.17 Step-time  1.2263375425338745 loss 4.332972331047057 104.38 sents/s
+Epoch  5 Step  11600 Perplexity 76.05 Step-time  1.27272700548172 loss 4.3313714385032664 100.57 sents/s
+Epoch  5 Step  11700 Perplexity 75.53 Step-time  1.2762701630592346 loss 4.324467885494232 100.29 sents/s
+Epoch  5 Step  11800 Perplexity 72.30 Step-time  1.1826173090934753 loss 4.2808218622207646 108.23 sents/s
+Epoch  5 Step  11900 Perplexity 72.14 Step-time  1.1833554792404175 loss 4.278667278289794 108.17 sents/s
+Epoch  5 Step  12000 Perplexity 74.24 Step-time  1.2165405583381652 loss 4.307276358604431 105.22 sents/s
+Epoch  5 Step  12100 Perplexity 73.68 Step-time  1.239931116104126 loss 4.29979615688324 103.23 sents/s
+Epoch  5 Step  12200 Perplexity 73.03 Step-time  1.261193459033966 loss 4.290803594589233 101.49 sents/s
+Epoch  5 Step  12300 Perplexity 72.64 Step-time  1.2444757556915282 loss 4.285532622337343 102.85 sents/s
+Epoch  5 Step  12400 Perplexity 72.19 Step-time  1.2434846615791322 loss 4.279258561134336 102.94 sents/s
+Epoch  5 Step  12500 Perplexity 70.61 Step-time  1.2474204659461976 loss 4.257192106246945 102.61 sents/s
+Epoch  5 Step  12600 Perplexity 69.72 Step-time  1.2450916290283203 loss 4.244545192718506 102.80 sents/s
+Epoch  5 Step  12700 Perplexity 69.13 Step-time  1.2480234217643738 loss 4.2360586977005 102.56 sents/s
+Epoch  5 Step  12800 Perplexity 70.06 Step-time  1.2743091154098511 loss 4.249367775917052 100.45 sents/s
+Epoch  5 Step  12900 Perplexity 68.62 Step-time  1.2512646985054017 loss 4.228568649291994 102.30 sents/s
+Epoch  5 Step  13000 Perplexity 68.73 Step-time  1.2562684893608094 loss 4.230175106525421 101.89 sents/s
+Epoch  5 Step  13100 Perplexity 69.42 Step-time  1.2446043467521668 loss 4.2401585245132445 102.84 sents/s
+Epoch  5 Step  13200 Perplexity 69.38 Step-time  1.2594835591316222 loss 4.239551074504852 101.63 sents/s
+Epoch  5 Step  13300 Perplexity 66.57 Step-time  1.2443921041488648 loss 4.198258285522459 102.86 sents/s
+Epoch  5 Step  13400 Perplexity 68.41 Step-time  1.255143768787384 loss 4.225469174385071 101.98 sents/s
+Epoch  5 Step  13500 Perplexity 67.15 Step-time  1.254473762512207 loss 4.206872227191925 102.03 sents/s
+Epoch 6 DONE
+Epoch  6 Step  13600 Perplexity 65.90 Step-time  1.2508416342735291 loss 4.18815500497818 102.33 sents/s
+Epoch  6 Step  13700 Perplexity 65.62 Step-time  1.2531034564971923 loss 4.183946492671968 102.15 sents/s
+Epoch  6 Step  13800 Perplexity 67.04 Step-time  1.2528655457496642 loss 4.205344276428223 102.17 sents/s
+Epoch  6 Step  13900 Perplexity 66.30 Step-time  1.254051628112793 loss 4.1941990327835095 102.07 sents/s
+Epoch  6 Step  14000 Perplexity 64.98 Step-time  1.252159993648529 loss 4.174073364734648 102.22 sents/s
+Epoch  6 Step  14100 Perplexity 62.14 Step-time  1.2521160864830017 loss 4.129428713321685 102.23 sents/s
+Epoch  6 Step  14200 Perplexity 64.14 Step-time  1.2572237849235535 loss 4.1610367441177365 101.81 sents/s
+Epoch  6 Step  14300 Perplexity 64.55 Step-time  1.2548166298866272 loss 4.1674496865272515 102.01 sents/s
+Epoch  6 Step  14400 Perplexity 64.18 Step-time  1.1518935418128968 loss 4.16162947654724 111.12 sents/s
+Epoch  6 Step  14500 Perplexity 63.81 Step-time  1.147036373615265 loss 4.155924284458158 111.59 sents/s
+Epoch  6 Step  14600 Perplexity 62.97 Step-time  1.1537335419654846 loss 4.142665469646454 110.94 sents/s
+Epoch  6 Step  14700 Perplexity 62.95 Step-time  1.213240761756897 loss 4.142330989837647 105.50 sents/s
+Epoch  6 Step  14800 Perplexity 61.63 Step-time  1.2102309107780456 loss 4.121173174381256 105.76 sents/s
+Epoch  6 Step  14900 Perplexity 60.54 Step-time  1.20767071723938 loss 4.103285698890686 105.99 sents/s
+Epoch  6 Step  15000 Perplexity 60.65 Step-time  1.2065024495124816 loss 4.105109333992004 106.09 sents/s
+Saving the model..
+Model saved at model/dir\translate.ckpt-15000
+Epoch  6 Step  15100 Perplexity 61.56 Step-time  1.2604948043823243 loss 4.120043635368347 101.55 sents/s
+Epoch  6 Step  15200 Perplexity 60.72 Step-time  1.192749161720276 loss 4.10629118680954 107.32 sents/s
+Epoch  6 Step  15300 Perplexity 60.11 Step-time  1.2007082319259643 loss 4.0962588524818395 106.60 sents/s
+Epoch  6 Step  15400 Perplexity 61.13 Step-time  1.2004678058624267 loss 4.113053607940674 106.63 sents/s
+Epoch  6 Step  15500 Perplexity 60.01 Step-time  1.202503981590271 loss 4.094561421871186 106.44 sents/s
+Epoch  6 Step  15600 Perplexity 60.40 Step-time  1.2030730605125428 loss 4.101011049747466 106.39 sents/s
+Epoch  6 Step  15700 Perplexity 59.23 Step-time  1.2150940823554992 loss 4.081503298282623 105.34 sents/s
+Epoch 7 DONE
+Epoch  7 Step  15800 Perplexity 58.90 Step-time  1.2093369221687318 loss 4.075820767879484 105.84 sents/s
+Epoch  7 Step  15900 Perplexity 59.36 Step-time  1.202313313484192 loss 4.0836463332176205 106.46 sents/s
+Epoch  7 Step  16000 Perplexity 58.32 Step-time  1.1919458818435669 loss 4.065936665534973 107.39 sents/s
+Epoch  7 Step  16100 Perplexity 59.03 Step-time  1.1932077598571778 loss 4.078003702163698 107.27 sents/s
+Epoch  7 Step  16200 Perplexity 58.24 Step-time  1.193834183216095 loss 4.064535217285156 107.22 sents/s
+Epoch  7 Step  16300 Perplexity 55.95 Step-time  1.1963859653472901 loss 4.02446449518204 106.99 sents/s
+Epoch  7 Step  16400 Perplexity 56.25 Step-time  1.226623854637146 loss 4.02980268239975 104.35 sents/s
+Epoch  7 Step  16500 Perplexity 57.58 Step-time  1.1959080052375795 loss 4.05320663690567 107.03 sents/s
+Epoch  7 Step  16600 Perplexity 57.57 Step-time  1.197787754535675 loss 4.052945046424864 106.86 sents/s
+Epoch  7 Step  16700 Perplexity 57.40 Step-time  1.1940944123268127 loss 4.050039780139925 107.19 sents/s
+Epoch  7 Step  16800 Perplexity 57.16 Step-time  1.202019670009613 loss 4.045774164199828 106.49 sents/s
+Epoch  7 Step  16900 Perplexity 55.49 Step-time  1.1914652729034423 loss 4.016191859245302 107.43 sents/s
+Epoch  7 Step  17000 Perplexity 56.24 Step-time  1.1995242524147034 loss 4.029574561119079 106.71 sents/s
+Epoch  7 Step  17100 Perplexity 55.03 Step-time  1.2001740264892578 loss 4.007960786819458 106.65 sents/s
+Epoch  7 Step  17200 Perplexity 53.98 Step-time  1.1969439697265625 loss 3.9885405111312853 106.94 sents/s
+Epoch  7 Step  17300 Perplexity 55.47 Step-time  1.2049043345451356 loss 4.015899126529694 106.23 sents/s
+Epoch  7 Step  17400 Perplexity 54.82 Step-time  1.1963633871078492 loss 4.004130051136016 106.99 sents/s
+Epoch  7 Step  17500 Perplexity 54.02 Step-time  1.204895124435425 loss 3.989305830001831 106.23 sents/s
+Epoch  7 Step  17600 Perplexity 55.29 Step-time  1.2078420448303222 loss 4.012510635852813 105.97 sents/s
+Epoch  7 Step  17700 Perplexity 55.50 Step-time  1.19242737531662 loss 4.016456775665285 107.34 sents/s
+Epoch  7 Step  17800 Perplexity 52.66 Step-time  1.1995176887512207 loss 3.9637831926345832 106.71 sents/s
+Epoch  7 Step  17900 Perplexity 54.96 Step-time  1.2001958107948303 loss 4.006543836593628 106.65 sents/s
+Epoch  7 Step  18000 Perplexity 53.89 Step-time  1.2024065709114076 loss 3.987002561092378 106.45 sents/s
+Epoch 8 DONE
+Epoch  8 Step  18100 Perplexity 52.83 Step-time  1.1957627582550048 loss 3.9670240330696123 107.04 sents/s
+Epoch  8 Step  18200 Perplexity 52.95 Step-time  1.1940344977378845 loss 3.9693946599960337 107.20 sents/s
+Epoch  8 Step  18300 Perplexity 54.02 Step-time  1.198707227706909 loss 3.989284341335297 106.78 sents/s
+Epoch  8 Step  18400 Perplexity 53.51 Step-time  1.1978279972076415 loss 3.9798802900314327 106.86 sents/s
+Epoch  8 Step  18500 Perplexity 52.87 Step-time  1.1958889198303222 loss 3.9677604746818558 107.03 sents/s
+Epoch  8 Step  18600 Perplexity 50.48 Step-time  1.206401686668396 loss 3.921629691123962 106.10 sents/s
+Epoch  8 Step  18700 Perplexity 52.02 Step-time  1.2255933380126953 loss 3.9515753388404833 104.44 sents/s
+Epoch  8 Step  18800 Perplexity 52.60 Step-time  1.2086078786849976 loss 3.962778379917145 105.91 sents/s
+Epoch  8 Step  18900 Perplexity 52.69 Step-time  1.1992409300804139 loss 3.964387681484222 106.73 sents/s
+Epoch  8 Step  19000 Perplexity 51.84 Step-time  1.2011412572860718 loss 3.948067593574525 106.57 sents/s
+Epoch  8 Step  19100 Perplexity 51.65 Step-time  1.2217863821983337 loss 3.9444119215011604 104.76 sents/s
+Epoch  8 Step  19200 Perplexity 51.92 Step-time  1.199327757358551 loss 3.949753849506377 106.73 sents/s
+Epoch  8 Step  19300 Perplexity 50.45 Step-time  1.201735758781433 loss 3.9210427188873287 106.51 sents/s
+Epoch  8 Step  19400 Perplexity 49.96 Step-time  1.2140067100524903 loss 3.911242003440857 105.44 sents/s
+Epoch  8 Step  19500 Perplexity 50.73 Step-time  1.2035196542739868 loss 3.9266044521331795 106.35 sents/s
+Epoch  8 Step  19600 Perplexity 50.96 Step-time  1.200298728942871 loss 3.9311133193969745 106.64 sents/s
+Epoch  8 Step  19700 Perplexity 49.76 Step-time  1.2041728401184082 loss 3.9072526288032527 106.30 sents/s
+Epoch  8 Step  19800 Perplexity 50.65 Step-time  1.2098033547401428 loss 3.9249930667877186 105.80 sents/s
+Epoch  8 Step  19900 Perplexity 50.87 Step-time  1.1965974640846253 loss 3.929320333003998 106.97 sents/s
+Epoch  8 Step  20000 Perplexity 50.14 Step-time  1.1973470544815064 loss 3.9147918963432318 106.90 sents/s
+Saving the model..
+Model saved at model/dir\translate.ckpt-20000
+Epoch  8 Step  20100 Perplexity 50.18 Step-time  1.2496835350990296 loss 3.915696713924409 102.43 sents/s
+Epoch  8 Step  20200 Perplexity 49.77 Step-time  1.2150436019897461 loss 3.907414622306822 105.35 sents/s
+Epoch  8 Step  20300 Perplexity 49.69 Step-time  1.2194530963897705 loss 3.905851325988769 104.97 sents/s
+Epoch 9 DONE
+Epoch  9 Step  20400 Perplexity 49.25 Step-time  1.2155472803115845 loss 3.896896445751191 105.30 sents/s
+Epoch  9 Step  20500 Perplexity 49.22 Step-time  1.215478003025055 loss 3.896364150047301 105.31 sents/s
+Epoch  9 Step  20600 Perplexity 49.92 Step-time  1.2238554382324218 loss 3.9105196905136097 104.59 sents/s
+Epoch  9 Step  20700 Perplexity 49.70 Step-time  1.2158043575286865 loss 3.905936577320098 105.28 sents/s
+Epoch  9 Step  20800 Perplexity 47.43 Step-time  1.2166066789627075 loss 3.8592330098152154 105.21 sents/s
+Epoch  9 Step  20900 Perplexity 47.43 Step-time  1.2168569660186768 loss 3.8591818070411694 105.19 sents/s
+Epoch  9 Step  21000 Perplexity 48.44 Step-time  1.214401090145111 loss 3.880245387554169 105.40 sents/s
+Epoch  9 Step  21100 Perplexity 48.86 Step-time  1.2318157362937927 loss 3.888934020996093 103.91 sents/s
+Epoch  9 Step  21200 Perplexity 49.22 Step-time  1.210291793346405 loss 3.8962440514564514 105.76 sents/s
+Epoch  9 Step  21300 Perplexity 48.65 Step-time  1.2165551376342774 loss 3.884600958824158 105.22 sents/s
+Epoch  9 Step  21400 Perplexity 47.70 Step-time  1.2224118828773498 loss 3.8650245928764346 104.71 sents/s
+Epoch  9 Step  21500 Perplexity 48.07 Step-time  1.2259656882286072 loss 3.87265881061554 104.41 sents/s
+Epoch  9 Step  21600 Perplexity 46.93 Step-time  1.2590779662132263 loss 3.848685698509216 101.66 sents/s
+Epoch  9 Step  21700 Perplexity 46.64 Step-time  1.2132990741729737 loss 3.842475624084472 105.50 sents/s
+Epoch  9 Step  21800 Perplexity 47.79 Step-time  1.2289573884010314 loss 3.866778938770295 104.15 sents/s
+Epoch  9 Step  21900 Perplexity 47.31 Step-time  1.2085642075538636 loss 3.856730151176453 105.91 sents/s
+Epoch  9 Step  22000 Perplexity 46.81 Step-time  1.21215309381485 loss 3.846151933670045 105.60 sents/s
+Epoch  9 Step  22100 Perplexity 47.19 Step-time  1.2143707871437073 loss 3.8542143893241887 105.40 sents/s
+Epoch  9 Step  22200 Perplexity 47.60 Step-time  1.3422709250450133 loss 3.862845683097842 95.36 sents/s
